@@ -1,0 +1,7 @@
+{
+  "name": "gravity_tensor_wave_modulator",
+  "version": "0.2.0",
+  "signature": "GT[containment<->wave]",
+  "core": "98 containment / 2 wave modulation",
+  "law": "stable continuity requires bounded excess energy"
+}
