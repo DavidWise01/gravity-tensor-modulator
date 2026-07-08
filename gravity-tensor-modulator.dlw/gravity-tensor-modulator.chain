@@ -4,6 +4,6 @@ slug  : gravity-tensor-modulator
 seal  : 2710702cd6e9ea1491964177567d197aaea971c92d34e523f742c3a654c01d16
 prev  : f7931505bd4572da3cd6dfafbc5e9baf04b9ac130380231ddfd0d0249b1a6d9b
 link  : 5b624d817317e32d10f2a06a0018d772ea91b535aa2b74e89700c6b47ae53c9a
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
